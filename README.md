@@ -8,3 +8,10 @@ Arduino UNO,
 LED,
 Potenciometer,
 Žičke
+
+
+
+
+
+
+Natančnost meritev je kar dobra. A izboljšali bi jo lahko tako da bi razliko popravljali v kodi, ali pa dobili boljši merilnik razdalje.
